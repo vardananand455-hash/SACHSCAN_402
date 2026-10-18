@@ -336,9 +336,6 @@ Contributions, bug reports, and suggestions are welcome.
 
 Please do not include API credentials, private evidence, or sensitive user information in issues or pull requests.
 
-## 📜 License
-
-Choose and add a license before distributing this project for reuse. Until a license is included in the repository, do not assume that others have permission to reuse, modify, or redistribute the code.
 
 ---
 
